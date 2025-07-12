@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Łukasz</h1>
-<h3 align="center">2nd-year CS undergraduate at AGH University of Krakow | Aspiring backend developer</h3>
+<h3 align="center">2nd-year CS undergraduate at AGH University of Krakow | Aspiring software developer</h3>
 
 - 🔭 I’m currently working on **My Portfolio website**
 
