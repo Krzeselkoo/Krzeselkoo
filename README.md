@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My Portfolio website**
 
-- 🌱 I’m currently learning **Spring, .NET / C#, C++, AI**
+- 🌱 I’m currently learning **Spring Boot, .NET / C#, C++, AI**
 
 - 📫 How to reach me **lkrementowski@proton.me**
 
